@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'すごいドキュメント',
+    title: 'たのしいドキュメント',
     dest: '../docs/',
     base: '/vp/'
   }
