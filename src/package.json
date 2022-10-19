@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "name": "vue-press",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ntkkd/vp.git",
+  "author": "ntkkd",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "eject": "vuepress eject"
+  }
+}
